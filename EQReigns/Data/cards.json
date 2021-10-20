@@ -1,0 +1,18 @@
+[
+    {
+        "image": "takeAlternativeMedicine",
+        "description": "Take alternative medicine.",
+        "leftSwipeDescription:": "ok",
+        "rightSwipeDescription": "no",
+        "leftSwipeResult": [0, -10, 5, 5],
+        "rightSwipeResult": [0, 0, -5, 0]
+    },
+    {
+        "image": "monk",
+        "description": "Meditate.",
+        "leftSwipeDescription:": "yeah",
+        "rightSwipeDescription": "no way",
+        "leftSwipeResult": [0, 0, 10, 5],
+        "rightSwipeResult": [0, 0, 0, 0]
+    }
+]

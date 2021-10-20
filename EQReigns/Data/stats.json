@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Relationships",
+        "image": "Relationships",
+        "amount": 100
+    },
+    {
+        "name": "Money",
+        "image": "Money",
+        "amount": 100
+    },
+    {
+        "name": "Fulfillment",
+        "image": "Fulfillment",
+        "amount": 100
+    },
+    {
+        "name": "Health",
+        "image": "Health",
+        "amount": 100
+    }
+]
